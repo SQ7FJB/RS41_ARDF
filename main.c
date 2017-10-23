@@ -1,5 +1,5 @@
 // STM32F100 and SI4032 RTTY transmitter
-// released under GPL v.2 by anonymous developer
+// released under GPL v.2 by SQ7FJB (APRS by SQ5RWU)
 // enjoy and have a nice day
 // ver 1.5a
 #include <stm32f10x_gpio.h>
