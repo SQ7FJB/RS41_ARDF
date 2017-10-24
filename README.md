@@ -13,6 +13,7 @@ Have a nice day ;)
 # Description
 Foxes are synchronized by GPS signal and send your  position  in specific time.
 
+more information: https://www.facebook.com/SP7PPT/videos/794597854044905/
 
 # Configuration
 All configs in ```config.h```
