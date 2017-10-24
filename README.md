@@ -25,8 +25,9 @@ All configs in ```config.h```
 * ```APRS COMMENT```  APRS comment
 
 * ``` No_FOX``` How much Foxes in the cycle. If 1 -> without APRS, ACW all time
-* ```Fox```   0- MOE, 1- MOI, 2- MOS, 3- MOH, 4- MO5, 5-  MO (without APRS), 6..17 Hunters - only APRS
-
+* ```Fox```   0- MOE, 1- MOI, 2- MOS, 3- MOH, 4- MO5 -(with APRS) 
+* ```Fox```   5-  MO (without APRS), 
+* ```Fox```   6..17 Hunters - only APRS
 * ```APRS_FREQUENCY``` APRS frequency in MHz
 * ```ACW_FREQUENCY```Fox MOE..MO5 frequency in MHz
 * ```ACW_FREQUENCY``` Fox MO Mhz middle frequency
